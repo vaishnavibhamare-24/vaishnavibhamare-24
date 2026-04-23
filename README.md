@@ -42,7 +42,7 @@
 
 ---
 
-### 🔹 Business Intelligence Engineer  
+### 🔹 Data Analyst 
 **Capgemini, India**  
 📅 Aug 2023 – Jul 2024  
 - Analyzed 120K+ records → improved decision turnaround by 25%  
