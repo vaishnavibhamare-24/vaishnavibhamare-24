@@ -42,14 +42,7 @@
 
 ---
 
-### 🔹 Data Analyst 
-**Capgemini, India**  
-📅 Aug 2023 – Jul 2024  
-- Analyzed 120K+ records → improved decision turnaround by 25%  
-- Built Power BI dashboards → reduced reporting dependency by 35%  
-- Optimized SQL queries → improved performance by 30%  
 
----
 
 ### 🔹 Data Analytics Intern  
 **Tata Power, India**  
