@@ -17,7 +17,7 @@
 ## ✨ About Me  
 
 🎓 MS in Advanced Data Analytics @ University of North Texas (GPA: 4.0)  
-💡 3+ years of experience transforming data into actionable insights and intelligent solutions  
+💡 2+ years of experience transforming data into actionable insights and intelligent solutions  
 🚀 Passionate about analytics, scalable data systems, and AI  
 📍 Texas, USA | Open to relocation  
 
