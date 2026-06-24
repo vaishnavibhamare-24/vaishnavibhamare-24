@@ -1,225 +1,248 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6B4EFF,35:00C9FF,70:92FE9D,100:FFB86B&text=Vaishnavi%20Bhamare&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,45:2C5364,100:6B4EFF&text=Vaishnavi%20Bhamare&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Vaishnavi Bhamare</h1>
+<h1 align="center">Hi, I'm Vaishnavi 👋</h1>
 
 <h3 align="center">
-AI Engineer • Data Engineer • BI Analyst • Machine Learning Engineer
+AI Engineer • Data Engineer • BI Analyst
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=6B4EFF&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Applications;Designing+Scalable+Data+Pipelines;Creating+Data-Driven+Business+Solutions;Open+to+AI%2C+ML%2C+Data+Engineering+and+Analytics+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=900&color=6B4EFF&center=true&vCenter=true&width=900&lines=Building+LLM+%26+RAG+Applications;Designing+Scalable+Data+Pipelines;Turning+Data+into+Business+Impact;Open+to+AI%2C+Data+Engineering+%26+Analytics+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavibhamare-24&label=Profile+Views&color=6B4EFF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/vaishnavibhamare-24?style=for-the-badge&color=00C9FF" />
+  <a href="mailto:vaishnavibhamare24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavibhamare/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://vaishnavibhamare-24.github.io/vaishnavibhamare.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-6B4EFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vaishnavibhamare-24">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# ✨ About Me
+## ✨ About Me
 
-🎓 **M.S. in Advanced Data Analytics** @ University of North Texas
-🏆 **GPA:** 4.0/4.0 | Phi Kappa Phi Academic Excellence Award (Top 10%)
-🤖 Building production-grade AI applications using **LLMs, RAG Systems, Multi-Agent Workflows, FastAPI & AWS**
-⚙️ Designing scalable **ETL pipelines, cloud-native data platforms, and analytics workflows**
-📊 Creating **Power BI dashboards, KPI reporting, and data-driven business solutions**
-📍 Texas, USA | Open to Relocation
+<table>
+<tr>
+<td width="55%">
 
----
+I am an **AI Engineer and Data Engineer** with experience building production-grade AI applications, scalable ETL pipelines, machine learning APIs, and business intelligence dashboards.
 
-# 💼 Experience
+I enjoy designing systems that turn raw data into intelligent products, automated workflows, and actionable insights.
 
-## 🔹 AI Research Engineer
+</td>
+<td width="45%">
 
-**University of North Texas, Texas, USA**
-📅 Sept 2024 – May 2026
+- 🎓 M.S. Advanced Data Analytics @ UNT  
+- 🏆 GPA: 4.0/4.0  
+- 🤖 LLMs, RAG, Multi-Agent Systems  
+- ⚙️ ETL, SQL, AWS, FastAPI  
+- 📊 Power BI, Tableau, KPI Reporting  
+- 📍 Texas, USA | Open to Relocation  
 
-* Designed 4 AI player personas using Monte Carlo Tree Search (MCTS), simulating 10,000+ game states
-* Built Python data pipelines for feature extraction, statistical analysis, and experiment tracking
-* Reduced manual testing cycles from weeks to overnight runs
-* Co-authored AI research accepted for publication in **JBAM 2026**
-
----
-
-## 🔹 Data & AI Intern
-
-**TATA Power, Mumbai, India**
-📅 Oct 2023 – July 2024
-
-* Built anomaly detection pipelines on transformer telemetry using Isolation Forest
-* Processed 50K+ device streams daily using AWS Lambda and Python
-* Served XGBoost predictive maintenance models through FastAPI
-* Managed model experiments and tracking with MLflow
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔹 Machine Learning Intern
+## 🚀 Featured Projects
 
-**Center of Excellence Lab, VJTI, India**
-📅 May 2023 – Jan 2024
+<table>
+<tr>
+<td width="50%">
 
-* Engineered Python data pipelines processing 100K+ power grid simulation records
-* Automated ingestion, normalization, and feature engineering
-* Built outage prediction models achieving 92% accuracy
+### 🤖 AdIntel AI  
+**Multi-Agent Marketing Intelligence Platform**
 
----
+`Python` `LangChain` `FastAPI` `AWS ECS` `MongoDB` `Redis` `RAGAS`
 
-# 🚀 Featured Projects
+Built a multi-agent RAG platform for campaign analysis, audience segmentation, and content generation with HyDE retrieval and RAGAS evaluation.
 
-# 🤖 AI & Machine Learning
+</td>
+<td width="50%">
 
-### 🧠 AdIntel AI – Multi-Agent Marketing Intelligence Platform
+### ✈️ Flight Delay Prediction  
+**DFW Airport ML Platform**
 
-**Tech:** Python • LangChain • FastAPI • AWS ECS • MongoDB • Redis • RAGAS
+`XGBoost` `FastAPI` `MLflow` `SHAP` `LangChain`
 
-✨ Multi-agent RAG platform for campaign analytics, audience segmentation, and content generation.
+Trained on **182,906 flight records** with **ROC-AUC 0.963** and **F1 0.933**, plus LLM-powered plain-English explanations.
 
----
+</td>
+</tr>
 
-### ✈️ Flight Delay Prediction – DFW Airport
+<tr>
+<td width="50%">
 
-**Tech:** XGBoost • MLflow • SHAP • LangChain • FastAPI
+### 🎫 Support Ticket Classifier  
+**Fine-tuned BERT + DistilBERT**
 
-✨ Predicted delays on **182,906 flights** with **ROC-AUC 0.963** and **F1 Score 0.933**.
+`PyTorch` `Transformers` `ONNX` `FastAPI` `SHAP`
 
----
+Fine-tuned transformer models across **151 intents**, achieving **89.3% accuracy** and reducing misroutes by **386/day**.
 
-### 🎫 Support Ticket Classifier
+</td>
+<td width="50%">
 
-**Tech:** PyTorch • Transformers • FastAPI • ONNX • SHAP
+### 📺 YouTube Analytics Pipeline  
+**Data Engineering + Dashboard**
 
-✨ Reduced ticket misrouting by **386 tickets/day** and improved classification accuracy to **89.3%**.
+`Python` `SQL` `Pandas` `SQLite` `Streamlit`
 
----
+Engineered an ETL pipeline processing **37K+ records**, optimized SQL queries, and reduced manual reporting by **80%**.
 
-# ⚙️ Data Engineering
+</td>
+</tr>
 
-### 📺 YouTube Trending Analytics Pipeline
+<tr>
+<td width="50%">
 
-**Tech:** Python • SQL • Pandas • SQLite • Streamlit
+### ⚡ Transformer Telemetry Pipeline  
+**Anomaly Detection System**
 
-✨ Built ETL pipelines processing **37K+ records** with automated transformations and analytics dashboards.
+`Python` `AWS Lambda` `Isolation Forest` `MLflow`
 
----
+Processed **50K+ device streams/day** and detected transformer faults up to **48 hours earlier** than manual thresholds.
 
-### ⚡ Transformer Telemetry Pipeline
+</td>
+<td width="50%">
 
-**Tech:** Python • AWS Lambda • FastAPI • MLflow
+### 📊 Power BI Dashboards  
+**Business Intelligence Portfolio**
 
-✨ Processed **50K+ device streams/day** and detected transformer faults **48 hours earlier**.
+`Power BI` `DAX` `Excel` `KPI Reporting`
 
----
+Built dashboards for sales, outlet performance, product categories, regional trends, and business decision support.
 
-### 🔋 Power Grid Simulation Pipeline
-
-**Tech:** Python • SQL • ETL • XGBoost
-
-✨ Processed **100K+ simulation records** and reduced model iteration time by **40%**.
-
----
-
-# 📊 BI & Analytics
-
-### 🛒 Blinkit Sales Dashboard
-
-**Tech:** Power BI • DAX • Excel
-
-✨ Dashboard analyzing **8.5K products** across **1.5K outlets**.
-
----
-
-### 📈 Super Store Sales Dashboard
-
-**Tech:** Power BI • DAX • Excel
-
-✨ Interactive dashboard with sales, profit, segment, and regional trend analysis.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,mongodb,mysql,aws,docker,git,github,vscode" />
 </p>
 
-**LLMs • RAG • LangChain • LangGraph • Prompt Engineering • SHAP • XGBoost • MLflow**
-
----
+### 🤖 AI / ML / GenAI
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge"/>
+</p>
 
 ### ⚙️ Data Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,docker,aws" />
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL%2FELT-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Ingestion-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redis%20Streams-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-00897B?style=for-the-badge"/>
 </p>
-
-**ETL • SQL • Data Modeling • Data Ingestion • FastAPI • Redis Streams • ChromaDB • Pinecone**
-
----
 
 ### 📊 BI & Analytics
-
-**Power BI • Tableau • DAX • KPI Reporting • Dashboarding • Data Visualization • Excel**
-
----
-
-# 🏆 Achievements
-
-🏅 Phi Kappa Phi Academic Excellence Award (Top 10% of Graduate Students)
-
-📄 Co-authored AI research accepted in **JBAM 2026**
-
-🎓 GPA **4.0/4.0** in M.S. Advanced Data Analytics
-
----
-
-# 📈 GitHub Analytics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavibhamare-24&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibhamare-24&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhamare-24&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavibhamare-24&theme=tokyo-night"/>
+  <img src="https://img.shields.io/badge/Power%20BI-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI%20Reporting-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboarding-6A1B9A?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 💼 Experience Snapshot
+
+<table>
+<tr>
+<td>
+
+### AI Research Engineer  
+**University of North Texas**  
+Sept 2024 – May 2026  
+
+- Built MCTS-based AI player personas  
+- Simulated 10,000+ game states  
+- Automated research pipelines  
+- Co-authored JBAM 2026 research  
+
+</td>
+<td>
+
+### Data & AI Intern  
+**TATA Power**  
+Oct 2023 – Jul 2024  
+
+- Built telemetry anomaly detection pipelines  
+- Processed 50K+ device streams/day  
+- Deployed FastAPI ML inference service  
+- Tracked models using MLflow  
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### Machine Learning Intern  
+**Center of Excellence Lab, VJTI**  
+May 2023 – Jan 2024  
+
+- Processed 100K+ power grid simulation records  
+- Automated feature engineering workflows  
+- Built outage prediction models with 92% accuracy  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vaishnavibhamare-24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibhamare-24&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="mailto:vaishnavibhamare24@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhamare-24&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://www.linkedin.com/in/vaishnavibhamare/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="https://vaishnavibhamare-24.github.io/vaishnavibhamare.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-6B4EFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+## 🏆 Highlights
 
-<a href="https://github.com/vaishnavibhamare-24">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/GPA-4.0%2F4.0-6B4EFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Phi%20Kappa%20Phi-Top%2010%25-00C9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JBAM-2026%20Publication-FFB86B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6B4EFF,35:00C9FF,70:92FE9D,100:FFB86B&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnavibhamare-24&label=Profile%20Views&color=6B4EFF&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F2027,45:2C5364,100:6B4EFF&section=footer" width="100%" />
 </p>
